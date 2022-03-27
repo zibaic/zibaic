@@ -1,7 +1,7 @@
 ### Hi there，I'm Zibai 👋
 
-- Strategy Consultant @ IBM 
-- B.S. in Stats. @ UofT
+- Strategy Consultant at IBM 
+- BSc of Statistics Specialist & Actuarial Science Major & Mathematics Minor at University of Toronto
 
 |  Website   | Linkedin  | 
 |  ----  | ----  | 
