@@ -5,6 +5,7 @@ I am a consultant in the Enterprise Strategy practice at IBM.  My experience spa
 - 2-Year Experience in Consulting, Business Strategy, Digital Transformation, Desk Research, Data Analysis 
 - Projects across Industries spanning Retail, Government, and Technology
 - Extensive and Stellar Work using R, Python, PowerPoint, Excel
+- Fun Facts: ♈️🧘🏻‍♀️⛸📸✈️💜
 
 |  Website   | Linkedin  | 
 |  ----  | ----  | 
